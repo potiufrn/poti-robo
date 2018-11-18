@@ -1,1 +1,1 @@
-# poti-robo
+# Estrutura Robótica da Equipe Poti
